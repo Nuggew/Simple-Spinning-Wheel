@@ -29,7 +29,7 @@ wheel.stop()
 # Example
 import spinningwheel as sw
 
-pb = sw.SpinningWheel(value=0, showPercentage=False, msg="") # OBS.: Only values from 0 to 1 are allowed!
+pb = sw.ProgressBar(value=0, showPercentage=False, msg="") # OBS.: Only values from 0 to 1 are allowed!
 pb.show()
 
 for i in range(101):
