@@ -15,6 +15,7 @@ import spinningwheel as sw
 ```python
 # Example
 import spinningwheel as sw
+import time
 
 wheel = sw.SpinningWheel(msg="YOUR MESSAGE HERE...", color=(255,0,0)) # OBS.: Only RGB color scheme is supported!
 wheel.start()
