@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spinningwheel_NUGGEW"
+version = "1.0.0"
+authors = [
+  { name="Nuggew", email="contato.guilherme.silva.araujo@gmail.com" },
+]
+description = "A simple open-source cool spinning bar for your python Windows Terminal programs :)"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Nuggew/Simple-Spinning-Wheel"
+Issues = "https://github.com/Nuggew/Simple-Spinning-Wheel/issues"

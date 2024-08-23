@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: spinningwheel_NUGGEW
+Version: 1.0.0
+Summary: A simple open-source cool spinning bar for your python Windows Terminal programs :)
+Author-email: Nuggew <contato.guilherme.silva.araujo@gmail.com>
+Project-URL: Homepage, https://github.com/Nuggew/Simple-Spinning-Wheel
+Project-URL: Issues, https://github.com/Nuggew/Simple-Spinning-Wheel/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Simple Spinning Wheel
 A simple open-source cool spinning bar for your python Windows Terminal programs :)
 
