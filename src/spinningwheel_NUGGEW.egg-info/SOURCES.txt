@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/spinningwheel_NUGGEW/__init__.py
-src/spinningwheel_NUGGEW/spinningwheel.py
-src/spinningwheel_NUGGEW.egg-info/PKG-INFO
-src/spinningwheel_NUGGEW.egg-info/SOURCES.txt
-src/spinningwheel_NUGGEW.egg-info/dependency_links.txt
-src/spinningwheel_NUGGEW.egg-info/top_level.txt
