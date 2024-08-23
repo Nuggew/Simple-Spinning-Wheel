@@ -35,3 +35,6 @@ for i in range(101):
   pb.set(i/100)
   time.sleep(0.1)
 ```
+
+## OBS
+That project was made only for fun and learning in about 5 minutes, so it's not very good and useful.
