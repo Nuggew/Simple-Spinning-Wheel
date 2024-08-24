@@ -28,6 +28,7 @@ wheel.stop()
 ```python
 # Example
 import spinningwheel as sw
+import time
 
 pb = sw.ProgressBar(value=0, showPercentage=False, msg="") # OBS.: Only values from 0 to 1 are allowed!
 pb.show()
