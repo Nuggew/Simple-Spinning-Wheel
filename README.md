@@ -1,4 +1,4 @@
-# Simple Spinning Wheel<br><a href="https://github.com/Nuggew/CSubRip/releases"><img src="https://img.shields.io/badge/build-passing-brightgreen"></img></a> ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Nuggew/Simple-Spinning-Wheel/main)
+# Simple Spinning Wheel<br>![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Nuggew/Simple-Spinning-Wheel/main)
 A simple open-source cool spinning bar for your python Windows Terminal programs :)
 
 ## Guide
