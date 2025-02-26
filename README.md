@@ -39,4 +39,5 @@ for i in range(101):
 ```
 
 ## OBS
-That project was made only for fun and learning in about 5 minutes, so it's not very good and useful.
+That project was made just for fun and learning in about 5 minutes, so it's not very good or useful.
+(It works by the way)
